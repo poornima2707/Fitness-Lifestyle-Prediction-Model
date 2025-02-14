@@ -23,6 +23,8 @@ The dataset consists of **6,000 entries**, with the following attributes:
 - **Target Variable**: `is_healthy` (**1 = Healthy, 0 = Unhealthy**)  
 
 ---
+## Google Colab link
+https://colab.research.google.com/drive/1JWuby5oYW8wqVXYyVO7FW_Mx9yYoElKk?usp=sharing
 
 ## 🛠️ Technologies Used  
 ✅ **Python**  
